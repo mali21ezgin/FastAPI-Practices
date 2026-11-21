@@ -14,7 +14,7 @@ This module contains structured FastAPI exercises, request validation practices,
 
 * **`Model-Schemas-And-Endpoints/`**: RESTful API implementation (`main.py`) featuring `StrEnum` model family routing (`llm`, `vision`, `tabular`), Pydantic request schemas (`InferenceRequest`, `ModelUpdate`), `Annotated` path/query parameter constraints (`Path`, `Query`), `dry_run` update simulation logic, and Swagger UI (`/docs`) verification overview (`docs-overview.png`).
 
-  ![FastAPI Swagger Overview](./docs-overview.png)
+  ![FastAPI Swagger Overview](./images/docs-overview.png)
 
 ### 📝 Project Solutions & Evaluation Guide
 
@@ -50,7 +50,7 @@ Bu modül, Python ve Pydantic kullanılarak geliştirilmiş yapılandırılmış
 
 * **`Model-Schemas-And-Endpoints/`**: `StrEnum` tabanlı model ailesi yönlendirmesi (`llm`, `vision`, `tabular`), Pydantic istek şemaları (`InferenceRequest`, `ModelUpdate`), `Annotated` ile yol/sorgu parametresi kısıtlamaları (`Path`, `Query`), `dry_run` güncelleme simülasyon mantığı ve Swagger UI (`/docs`) doğrulama ekran görüntüsünü (`docs-overview.png`) içeren RESTful API uygulaması (`main.py`).
 
-  ![FastAPI Swagger Genel Görünümü](./docs-overview.png)
+  ![FastAPI Swagger Genel Görünümü](./images/docs-overview.png)
 
 ### 📝 Proje Çözümleri ve Değerlendirme Rehberi
 
